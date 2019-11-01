@@ -1,0 +1,19 @@
+.flex {
+    display: flex;
+}
+
+.flex > *{
+    margin-right: 2rem;
+}
+
+.btn {
+    text-decoration: none;
+}
+
+.list { 
+    list-style: none;
+}
+
+.apart {
+    margin-right: auto;
+}
